@@ -35,4 +35,5 @@ def kesha_maker(array)
     new_word[2] = "$"
     kesha_array << new_word
   end
+  kesha_array
 end
