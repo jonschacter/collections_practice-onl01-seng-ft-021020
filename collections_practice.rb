@@ -23,3 +23,7 @@ def swap_elements_from_to(array, index, destination_index)
   array[index] = store_value
   array
 end
+
+def reverse_array(array)
+  array.reverse
+end
